@@ -1,0 +1,25 @@
+.Todo-container h1{
+  margin: 12px;
+  margin-bottom: 22px;
+  font-weight: 700;
+  font-size: 45px;
+}
+
+input{
+   border: 1px black solid;
+   border-radius: 5px;
+   width: 100%;
+   padding: 5px;
+}
+
+.item-container{
+  text-align:start;
+}
+
+.new-row{
+  margin: 15px 5px;
+}
+
+.new-button{
+  min-width: 80px;
+}
